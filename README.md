@@ -22,4 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2121-find-if-path-exists-in-graph) |
+## Array
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
