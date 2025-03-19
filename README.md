@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
