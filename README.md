@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
