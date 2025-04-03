@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0800-letter-case-permutation) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0800-letter-case-permutation) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0800-letter-case-permutation](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0800-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
