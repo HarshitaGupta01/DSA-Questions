@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Hash Table
 |  |
