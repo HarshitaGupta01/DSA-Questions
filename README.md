@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 ## Bit Manipulation
@@ -84,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0800-letter-case-permutation](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0800-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -102,9 +106,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
