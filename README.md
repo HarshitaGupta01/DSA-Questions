@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Math
