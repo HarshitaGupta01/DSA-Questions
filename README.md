@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0800-letter-case-permutation](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0800-letter-case-permutation) |
+| [1250-longest-common-subsequence](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 ## Math
 |  |
