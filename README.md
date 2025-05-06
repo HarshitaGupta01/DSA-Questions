@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1250-longest-common-subsequence) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
