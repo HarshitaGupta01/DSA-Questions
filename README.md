@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
+| [0172-factorial-trailing-zeroes](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0172-factorial-trailing-zeroes) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
