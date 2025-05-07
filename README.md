@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0152-maximum-product-subarray) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/1013-fibonacci-number) |
 ## Memoization
