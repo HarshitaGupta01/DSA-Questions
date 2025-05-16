@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0078-subsets) |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0139-word-break) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/HarshitaGupta01/DSA-Questions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
